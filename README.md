@@ -1,6 +1,6 @@
 # Build a Museum
 
-**Build a Museum** is a Roblox tycoon/simulation game where players collect exhibits, expand their museum, and progress through increasingly valuable content.
+**Build a Museum** is a Roblox tycoon/simulation game where players expand their museum by unboxing random items, placing them as exhibits, and earning money from NPC visitors.
 
 Built with **Luau** and **Roblox Studio**.
 
