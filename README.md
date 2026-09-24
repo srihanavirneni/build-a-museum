@@ -1,26 +1,21 @@
 # Build a Museum
 
-Build a Museum is a Roblox tycoon/simulation game in which players
-collect exhibits, expand their museum, and progress through increasingly
-valuable content.
+**Build a Museum** is a Roblox tycoon/simulation game where players collect exhibits, expand their museum, and progress through increasingly valuable content.
 
-Built in Luau and Roblox Studio.
+Built with **Luau** and **Roblox Studio**.
 
-Play on Roblox: https://www.roblox.com/games/111941071362016/Build-a-Museum
+[Play Build a Museum on Roblox](https://www.roblox.com/games/111941071362016/Build-a-Museum)
 
 ## Technical Highlights
 
-- Modular client/server architecture
-- Persistent player data
-- Custom item and progression systems
-- Interactive placement/building systems
-- UI state management
-- Server-authoritative gameplay systems
+* Modular client/server architecture
+* Server-authoritative gameplay systems
+* Persistent player data
+* Custom item and progression systems
+* Interactive placement and building systems
+* UI and client state management
 
 ## Source Code
 
-The production source code is kept private because this is an actively
-developed commercial Roblox project.
-
-Selected examples demonstrating the project's architecture are included
-in this repository under src folder
+The production source code is kept private because Build a Museum is an actively developed project.
+This repository contains selected and sanitized code samples that demo
