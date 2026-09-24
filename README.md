@@ -18,4 +18,7 @@ Built with **Luau** and **Roblox Studio**.
 ## Source Code
 
 The production source code is kept private because Build a Museum is an actively developed project.
-This repository contains selected and sanitized code samples that demo
+
+This repository contains selected and sanitized code samples that demonstrate the project's architecture, design patterns, and implementation style without exposing the complete production codebase.
+
+Code samples can be found in the [`src/`](./src) directory.
