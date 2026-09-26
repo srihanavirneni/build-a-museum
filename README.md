@@ -4,8 +4,6 @@
 
 Built with **Luau** and **Roblox Studio**.
 
-[Play Build a Museum on Roblox](https://www.roblox.com/games/111941071362016/Build-a-Museum)
-
 ## Technical Highlights
 
 * Modular client/server architecture
