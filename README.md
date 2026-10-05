@@ -1,8 +1,8 @@
 # Build a Museum
 
-**Build a Museum** is a Roblox tycoon/simulation game where players expand their museum by unboxing random items, placing them as exhibits, and earning money from NPC visitors.
+**Build a Museum** is a Roblox simulation game where players expand their museum by unboxing random items, placing them as exhibits, and earning money from NPC visitors.
 
-Built with **Luau** and **Roblox Studio**.
+Built with **Lua/Luau** and **Roblox Studio**.
 
 ## Technical Highlights
 
@@ -16,7 +16,6 @@ Built with **Luau** and **Roblox Studio**.
 ## Source Code
 
 The production source code is kept private because Build a Museum is an actively developed project.
-
 This repository contains selected and sanitized code samples that demonstrate the project's architecture, design patterns, and implementation style without exposing the complete production codebase.
 
 Code samples can be found in the [`src/`](./src) directory.
